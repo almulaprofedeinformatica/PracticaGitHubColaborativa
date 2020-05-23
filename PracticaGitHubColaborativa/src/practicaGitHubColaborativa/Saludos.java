@@ -9,6 +9,10 @@ public class Saludos {
 		System.out.println(Almu.saludo);
 		System.out.println(Almu.despedida);
 		
+		//Codigo de Oscar
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(OscarDelAmo.saludo);
+		System.out.println(OscarDelAmo.despedida);
 		
 
 	}
