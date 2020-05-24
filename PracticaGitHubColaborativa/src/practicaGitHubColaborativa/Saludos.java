@@ -38,6 +38,11 @@ public class Saludos {
 		System.out.println("------------------------------------------------------------------");
 		System.out.println(MiguelAngel.saludo);
 		System.out.println(MiguelAngel.despedida);
+		
+		// Codigo de David
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(DavidRodriguez.saludo);
+		System.out.println(DavidRodriguez.despedida);
 	}
 
 }
