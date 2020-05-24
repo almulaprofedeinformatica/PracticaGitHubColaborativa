@@ -29,7 +29,7 @@ public class Saludos {
 		System.out.println(AlejandroLopez.saludo);
 		System.out.println(AlejandroLopez.despedida);
 		
-		// Codigo de Almu
+		// Codigo de Iustin
 		System.out.println("------------------------------------------------------------------");
 		System.out.println(IustinMocanu.saludo);
 		System.out.println(IustinMocanu.despedida);
