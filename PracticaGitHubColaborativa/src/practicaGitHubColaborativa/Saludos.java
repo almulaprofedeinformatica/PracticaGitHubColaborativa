@@ -53,6 +53,11 @@ public class Saludos {
 		System.out.println("------------------------------------------------------------------");
 		System.out.println(RodrigoGarcia.saludo);
 		System.out.println(RodrigoGarcia.despedida);
+		
+		// Codigo de Sergio Gomez
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(SergioGomez.saludo);
+		System.out.println(SergioGomez.despedida);
 	
 	}
 
