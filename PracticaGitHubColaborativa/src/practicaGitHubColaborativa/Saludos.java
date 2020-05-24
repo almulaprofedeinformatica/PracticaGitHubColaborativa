@@ -73,6 +73,12 @@ public class Saludos {
 		System.out.println("------------------------------------------------------------------");
 		System.out.println(PaulaBlanco.saludo);
 		System.out.println(PaulaBlanco.despedida);
+		
+
+		// Codigo de Sergio Manzanares
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(SergioManzanares.saludo);
+		System.out.println(SergioManzanares.despedida);
 
 	}
 
