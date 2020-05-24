@@ -14,7 +14,11 @@ public class Saludos {
 		System.out.println(OscarDelAmo.saludo);
 		System.out.println(OscarDelAmo.despedida);
 		
-
+		//Codigo de Matute
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(JavierMatute.saludo);
+		System.out.println(JavierMatute.despedida);
+		
 	}
 
 }
