@@ -79,6 +79,12 @@ public class Saludos {
 		System.out.println("------------------------------------------------------------------");
 		System.out.println(SergioManzanares.saludo);
 		System.out.println(SergioManzanares.despedida);
+		
+		// Codigo de Igor Korniyenko
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(IgorKorniyenko.saludo);
+		System.out.println(IgorKorniyenko.despedida);
+
 
 	}
 
