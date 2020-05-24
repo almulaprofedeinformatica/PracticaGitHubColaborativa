@@ -24,6 +24,11 @@ public class Saludos {
 		System.out.println(IvanMoriche.saludo);
 		System.out.println(IvanMoriche.despedida);
 		
+		//Codigo de AlexLopez
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(AlejandroLopez.saludo);
+		System.out.println(AlejandroLopez.despedida);
+		
 	}
 
 }
