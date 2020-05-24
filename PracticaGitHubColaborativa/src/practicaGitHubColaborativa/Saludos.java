@@ -48,6 +48,12 @@ public class Saludos {
 		System.out.println("------------------------------------------------------------------");
 		System.out.println(CristinaHerraez.saludo);
 		System.out.println(CristinaHerraez.despedida);
+		
+		// Codigo de Rodrigo
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(RodrigoGarcia.saludo);
+		System.out.println(RodrigoGarcia.despedida);
+	
 	}
 
 }
