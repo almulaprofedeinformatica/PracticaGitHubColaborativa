@@ -69,6 +69,11 @@ public class Saludos {
 		System.out.println(RubenOya.saludo);
 		System.out.println(RubenOya.despedida);
 
+		// Codigo de Paula Blanco
+		System.out.println("------------------------------------------------------------------");
+		System.out.println(PaulaBlanco.saludo);
+		System.out.println(PaulaBlanco.despedida);
+
 	}
 
 }
