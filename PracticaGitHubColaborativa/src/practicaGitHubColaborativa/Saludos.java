@@ -94,6 +94,11 @@ public class Saludos {
 		System.out.println("------------------------------------------------------------------");
 		System.out.println(AlejandroPerez.saludo);
 		System.out.println(AlejandroPerez.despedida);
+		
+		//Codigo de Álvaro García
+				System.out.println("------------------------------------------------------------------");
+				System.out.println(Alvaro.saludo);
+				System.out.println(Alvaro.despedida);
 	}
 
 }
