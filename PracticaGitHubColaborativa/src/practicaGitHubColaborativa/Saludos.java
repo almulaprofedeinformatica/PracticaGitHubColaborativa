@@ -99,6 +99,11 @@ public class Saludos {
 				System.out.println("------------------------------------------------------------------");
 				System.out.println(Alvaro.saludo);
 				System.out.println(Alvaro.despedida);
+				
+		// Codigo de Juan Carlos Campos
+				System.out.println("------------------------------------------------------------------");
+				System.out.println(JuanCarlosCampos.saludo);
+				System.out.println(JuanCarlosCampos.despedida);
 	}
 
 }
